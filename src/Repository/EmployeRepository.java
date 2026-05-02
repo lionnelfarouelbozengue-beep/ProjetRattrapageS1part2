@@ -1,7 +1,8 @@
-package Repository;
+package repository;
 
-import Entity.Employe;
 import java.util.ArrayList;
+
+import modele.Employe;
 
 public class EmployeRepository {
 

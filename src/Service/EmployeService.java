@@ -1,7 +1,7 @@
-package Service;
+package service;
 
-import Entity.Employe;
-import Repository.EmployeRepository;
+import modele.Employe;
+import repository.EmployeRepository;
 
 public class EmployeService {
 

@@ -1,4 +1,4 @@
-package Entity;
+package modele;
 
 public class Employe {
 

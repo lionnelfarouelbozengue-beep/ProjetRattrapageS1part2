@@ -1,7 +1,8 @@
 package Presentation;
 
-import Service.EmployeService;
 import java.util.Scanner;
+
+import service.EmployeService;
 
 public class Main {
 
