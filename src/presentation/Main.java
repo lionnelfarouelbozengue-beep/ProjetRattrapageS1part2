@@ -1,4 +1,4 @@
-package Presentation;
+package presentation;
 
 import java.util.Scanner;
 
